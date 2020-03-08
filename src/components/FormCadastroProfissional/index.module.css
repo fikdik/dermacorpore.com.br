@@ -1,0 +1,33 @@
+/* purgecss start ignore */
+
+.simpleForm {
+  @apply flex flex-col;
+
+  & .input {
+    @apply my-2 pb-2;
+  }
+
+  & input,
+  & textarea {
+    @apply py-2 px-4 w-full rounded font-sans text-base;
+    border: 1px solid theme("colors.gray.100");
+    background-color: rgba(234, 234, 234, 0.9);
+
+    &::placeholder {
+      @apply text-gray-700;
+    }
+  }
+
+  & textarea {
+    @apply h-24 -mb-2;
+    resize: none;
+  }
+
+  & span {
+    @apply text-white bg-red-600 w-full mb-2 px-4 py-1 rounded-br rounded-bl block;
+  }
+  & input + span {
+    margin-top: -1px;
+  }
+}
+/* purgecss end ignore */

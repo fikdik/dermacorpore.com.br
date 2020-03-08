@@ -1,0 +1,9 @@
+{
+  "name": "Dermacorpore",
+  "short_name": "Dermacorpore",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#B0E022",
+  "orientation": "portrait",
+  "icon": "/img/icon.svg"
+}

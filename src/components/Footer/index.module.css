@@ -1,0 +1,105 @@
+.goTopBtn {
+  position: relative;
+  top: -24px;
+  left: calc(50% - 24px);
+}
+
+.col {
+  @apply px-8;
+  & header {
+    @apply text-2xl font-bold mb-4 pb-4 w-full;
+    border-bottom: 1px solid rgba(120, 120, 120, 0.5);
+  }
+
+  & li {
+    @apply mb-1 pb-1;
+    border-bottom: 1px solid rgba(120, 120, 120, 0.2);
+  }
+
+  @screen md {
+    @apply w-1/4;
+  }
+}
+
+.bgFooter {
+  @apply pt-6 text-gray-100;
+  margin: -2px;
+}
+
+.footerCol {
+  @apply p-4 flex flex-col flex-auto;
+
+  @screen md {
+    max-width: 33%;
+  }
+
+  & > span {
+    @apply mb-1;
+  }
+
+  & > header {
+    @apply font-bold pb-2 mb-2;
+    font-size: 1.23rem;
+  }
+
+  & a {
+    @apply flex flex-col;
+    transition: transform ease 100ms;
+    &:hover {
+      transform: scale(1.03);
+    }
+    & small {
+      @apply text-gray-300;
+    }
+  }
+}
+
+.logoCol {
+  & > img {
+    @apply w-1/3 mb-1;
+  }
+}
+
+.newsCol {
+  & a + a,
+  & li + li {
+    @apply mt-2 pt-2;
+    border-top: 1px dashed red;
+  }
+}
+
+.contactCol {
+  & a + a,
+  & li + li {
+    @apply mt-2 pt-2;
+    border-top: 1px dashed theme("colors.red.500");
+  }
+
+  & a {
+    @apply w-full;
+  }
+
+  & dl {
+    @apply flex flex-col flex-auto items-start justify-center;
+
+    & svg {
+      @apply h-8 w-8 mr-4;
+      float: rigth;
+    }
+    & div {
+      @apply flex-auto;
+    }
+
+    & a {
+      @apply flex-row items-center;
+    }
+  }
+
+  & dt {
+    @apply flex flex-col font-bold mb-2;
+  }
+
+  & dd {
+    font-size: 0.85rem;
+  }
+}

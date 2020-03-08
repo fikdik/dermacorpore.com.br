@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "label": "Loja",
+      "url": "https://dermacorpore.net"
+    },
+    {
+      "label": "Artigos e Protocolos",
+      "url": "/artigos-e-protocolos/"
+    },
+    {
+      "label": "Onde encontrar",
+      "url": "/onde-encontrar/"
+    },
+    {
+      "label": "Seja Parceiro",
+      "url": "/seja-parceiro/"
+    },
+    {
+      "label": "Contato",
+      "url": "/contato/"
+    }
+  ]
+}

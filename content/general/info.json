@@ -1,0 +1,30 @@
+{
+  "email": {
+    "address": "contato@dermacorpore.com.br",
+    "subject": "website Dermacorpore"
+  },
+  "phone": {
+    "number": "+5527988248386",
+    "display": "+55 27 98824.8386",
+    "message": "Olá Dermacorpore."
+  },
+  "address": {
+    "display": "Rua Olívio Antônio Novaes, 66",
+    "locality": "Guarapari",
+    "region": "ES",
+    "country": "Brasil",
+    "postalCode": "29216-590",
+    "link": "https://www.google.com/maps/place/Guarapari,+ES/"
+  },
+  "localID": {
+    "type": "CNPJ",
+    "legalName": "DERMACORPORE COMERCIO LTDA",
+    "foundingDate": "2014-03-03T12:18:19.758Z",
+    "display": "17.095.207/0001-90",
+    "number": "17095207000190",
+    "founders": [
+      "Simone Ligeiro",
+      "Manuella Albani"
+    ]
+  }
+}

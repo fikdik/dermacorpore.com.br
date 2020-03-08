@@ -1,0 +1,36 @@
+/* purgecss start ignore */
+
+.md-styles {
+  & > * {
+    @apply mb-4;
+  }
+  & h1 {
+    @apply text-3xl;
+  }
+  & h2 {
+    @apply text-2xl;
+  }
+  & h3 {
+    @apply text-xl;
+  }
+  & table {
+    @apply w-full;
+  }
+  & th {
+    @apply p-2 text-xl;
+  }
+  & td {
+    @apply p-2;
+  }
+  & tr:nth-child(2n) {
+    @apply bg-gray-200;
+  }
+  & ul {
+    @apply pl-10 list-disc;
+    & li {
+      @apply list-disc;
+    }
+  }
+}
+
+/* purgecss end ignore */

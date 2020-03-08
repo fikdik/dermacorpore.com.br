@@ -1,0 +1,12 @@
+/* purgecss start ignore */
+
+@screen ultra {
+  .container {
+    max-width: 65%;
+  }
+  html {
+    font-size: calc(100vw / 100);
+  }
+}
+
+/* purgecss end ignore */

@@ -107,7 +107,7 @@ export default function FormCadastroProfissional() {
         data-netlify="true"
         data-netlify-honeypot="bot-field"
       >
-        <Input type="hidden" name="form-name" value="contact" />
+        <Input type="hidden" name="form-name" value="formConsultor" />
         <div className={styles.input}>
           <Input name="name" type="text" placeholder="Nome Completo" />
         </div>

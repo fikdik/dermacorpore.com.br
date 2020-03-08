@@ -38,7 +38,7 @@ function encode(data) {
 }
 
 export default function FormCadastroProfissional() {
-  const email = "novoconsultor@gloriosas.com.br"
+  const email = "novoconsultor@dermacorpore.net"
   const [way, setWay] = useState("")
 
   function handleSubmit(data, { resetForm }) {
@@ -99,7 +99,7 @@ export default function FormCadastroProfissional() {
     <>
       <Form
         schema={schema}
-        name="contact"
+        name="formConsultor"
         method="post"
         action="/"
         onSubmit={handleSubmit}

@@ -100,7 +100,7 @@ export default function FormCadastroProfissional() {
     <>
       <Form
         schema={schema}
-        name="contact"
+        name="formProfissional"
         method="post"
         action="/"
         onSubmit={handleSubmit}

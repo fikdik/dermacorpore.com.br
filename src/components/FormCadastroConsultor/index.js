@@ -99,7 +99,7 @@ export default function FormCadastroProfissional() {
     <>
       <Form
         schema={schema}
-        name="formConsultor"
+        name="Cadastro Consultor"
         method="post"
         action="/"
         onSubmit={handleSubmit}
@@ -107,7 +107,7 @@ export default function FormCadastroProfissional() {
         data-netlify="true"
         data-netlify-honeypot="bot-field"
       >
-        <Input type="hidden" name="form-name" value="formConsultor" />
+        <Input type="hidden" name="form-name" value="Cadastro Consultor" />
         <div className={styles.input}>
           <Input name="name" type="text" placeholder="Nome Completo" />
         </div>

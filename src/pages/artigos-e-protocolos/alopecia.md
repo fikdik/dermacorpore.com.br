@@ -2,7 +2,7 @@
 templateKey: posts/post
 author: Dermacorpore
 title: Procedimento Ortomolecular para Alopécia
-description: Protocolo com produtos ortomoleculares para auxiliar no combater a queda de cabelo.
+description: Protocolo com produtos ortomoleculares para auxiliar no combate a queda de cabelo.
 tags:
   - protocolo
   - capilar
@@ -30,7 +30,7 @@ metadata:
 1. Lavar os cabelos com shampoo anti-resíduo (utilizar produto de sua preferência)
 2. Esfoliar o couro cabeludo com Íon Clean
 3. Retirar com água corrente
-4. Separar os cabelos em mechas e aplicar os minerais no couro cabeludo, um de cada vez, na seguinte ordem: Enxofre, Zinco Selênio e Germânio
+4. Separar os cabelos em mechas e aplicar os minerais no couro cabeludo, um de cada vez, na seguinte ordem: Enxofre, Zinco, Selênio e Germânio
 5. Aplicar Íon Masque e ocluir com filme osmótico por 10 minutos
 6. Lavar em água corrente
 7. Retirar o excesso de água

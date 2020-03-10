@@ -1,7 +1,7 @@
 ---
 templateKey: posts/post
 author: Dermacorpore
-title: Procedimento Ortomolecular para Esfoliação e Nutrição Facial
+title: Procedimento Ortomolecular para Flacidez e Rugas Faciais
 description: Protocolo com produtos ortomoleculares para amenizar a flacidez e as rugas faciais.
 tags:
   - protocolo
@@ -15,7 +15,7 @@ metadata:
   dateModified: 2020-02-27T17:11:57.653Z
   datePublished: 2020-02-27T17:11:57.606Z
 ---
-## **Procedimento Ortomolecular de Flacidez e Rugas Facial**
+## **Procedimento Ortomolecular para Flacidez e Rugas Faciais**
 
 ### **Produtos**
 

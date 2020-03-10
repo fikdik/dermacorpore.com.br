@@ -35,7 +35,7 @@ metadata:
 1. Retirar sujidades com Água Termal
 2. Esfoliar com sabonete Íon Clean
 3. Retirar com Água Termal
-4. Aplicar os minerais até total absorção, um de cada vez, na seguinte ordem: Silício, Magnésio, Germânio e Manganês
+4. Aplicar os minerais até total absorção, um de cada vez, na seguinte ordem: Ferro, Silício, Magnésio, Germânio e Manganês
 5. Aplicar Íon Nutre até absorção
 6. Aplicar Íon Masque e deixar por 10 minutos
 7. Retirar com Água Termal

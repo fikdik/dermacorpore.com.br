@@ -21,12 +21,12 @@ metadata:
 
 - Água Termal
 - Íon Clean
-- Íon Mousse (Demaquilanete)
+- Íon Mousse (Demaquilante)
 - Cálcio Quelato + Centella Asiatica
 - Potássio Quelato + Ginseng
 - Selênio Quelato + Romã + Coenzima Q10
 - Silício Quelato + Romã + Coenzima Q10
-- Íon Face.
+- Íon Face
 
 ### **Passo a passo**
 
@@ -44,4 +44,4 @@ metadata:
 - Água Termal
 - Íon Face + Vit C
 
-**Frequencia do procedimento**: De três e a quatro sessões de microagulhamento, com intervalo de um mês entre elas.
+**Frequencia do procedimento**: De 3 a 4 sessões de microagulhamento, com intervalo de um mês entre elas.

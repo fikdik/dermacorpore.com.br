@@ -33,7 +33,7 @@ metadata:
 1. Retirar sujidades com Água Termal
 2. Limpar e esfoliar a pele com sabonete Íon Clean
 3. Retirar sabonete e tonificar a pele com Água Termal
-4. Aplicar os minerais, até total absorção, um de cada vez, na seguinte ordem:  Cálcio, Potássio, GermâniO e Selênio
+4. Aplicar os minerais, até total absorção, um de cada vez, na seguinte ordem:  Cálcio, Potássio, Germânio e Selênio
 5. Aplicar Íon Firme até total absorção
 6. Massagear o Íon Corps
 7. Aplicar uma camada de Íon Masque e aguardar 15 minutos

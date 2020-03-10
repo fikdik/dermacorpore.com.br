@@ -1,8 +1,8 @@
 ---
 templateKey: posts/post
 author: Dermacorpore
-title: DermaVeins - Procedimento Ortomolecular para recuperação de Vasinhos, ou Telangiectasia Corporal
-description: Protocolo com produtos ortomoleculares para amenizar o aspecto dos vasinhos e melhorar a circulação. Método não invasivo
+title: DermaVeins - Procedimento Ortomolecular para recuperação de Vasinhos ou Telangiectasia Corporal
+description: Protocolo com produtos ortomoleculares para amenizar o aspecto dos vasinhos e melhorar a circulação. Método não invasivo.
 tags:
   - protocolo
   - corporal
@@ -16,7 +16,7 @@ metadata:
   datePublished: 2020-02-27T17:11:57.606Z
 ---
 
-## **DermaVeins - Procedimento Ortomolecular para recuperação de Vasinhos, ou Telangiectasia Corporal**
+## **DermaVeins - Procedimento Ortomolecular para recuperação de Vasinhos ou Telangiectasia Corporal**
 
 ### **Produtos**
 
@@ -24,7 +24,7 @@ metadata:
 - Íon Clean
 - Cálcio Quelato + Centella Asiática
 - Potássio Quelato + Ginseng
-- Cobalto Quelato;
+- Cobalto Quelato
 - Magnésio Quelato + Ginseng
 - Ferro Quelato
 - Zinco Quelato

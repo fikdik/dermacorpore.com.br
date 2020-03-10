@@ -26,7 +26,7 @@ metadata:
 
 ### **Passo a passo**
 
-1. Retirar sujidades com Água Termal
+1. Retirar sujidades com Água Termal 
 2. Esfoliar com sabonete Íon Clean
 3. Retirar com Água Termal
 4. Aplicar Enxofre massageando até total absorção

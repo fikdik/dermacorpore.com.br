@@ -39,8 +39,9 @@ metadata:
 6. Aplicar Íon Masque por 10 minutos
 7. Após esse tempo, promover peeling (gomagem/esfoliação) com Água Termal na pele
 8. Tonificar a pele com Água Termal
-9. Finalizar com filtro solar
-10.  **Observação:** Para manchas brancas usar o Cobre Quelato + Ginseng
+9. Finalizar com Filtro Solar
+
+**Observação:** Para manchas brancas usar o Cobre Quelato + Ginseng
 
 ### *Manutenção: Dia e Noite*
 

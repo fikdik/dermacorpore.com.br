@@ -27,14 +27,14 @@ metadata:
 - Zinco Quelato
 - Íon Face
 - Íon Masque
-- Filtro solar
+- Filtro Solar
 
 ### **Passo a passo**
 
 1. Retirar sujidades com Água Termal (em caso de maquiagens, remover utilizando o Íon Mousse)
 2. Limpar e esfoliar a pele com sabonete Íon Clean
 3. Retirar e tonificar a pele com Água Termal
-4. Aplicar Íon Nutre e fazer oclusão (fonte de calor e bandaletes de algodão umedecidos)
+4. Aplicar Íon Nutre e fazer oclusão (fonte de calor e bandaletes de algodão umedecidos) 
 5. Fazer extração de acordo com a técnica/conhecimento profissional
 6. Tonificar a pele com Água Termal
 7. Massagear com Enxofre Quelato + Bardana até absorção
@@ -42,10 +42,12 @@ metadata:
 9. Realizar manobras de drenagem facial com Íon Face
 10. Aplicar Íon Masque por 10 minutos
 11. Retirar com Água Termal
-12. Passar filtro solar
+12. Passar Filtro Solar
 
 ### *Manutenção: Dia e Noite*
 
 - Água Termal
 - Enxofre Quelato + Bardana
 - Filtro Solar
+
+**Frequência do procedimento:** 1 vez por mês

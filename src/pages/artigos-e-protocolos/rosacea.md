@@ -20,12 +20,13 @@ metadata:
 
 - Água Termal
 - Íon Clean
-- Íon Mousse (demaquilante)
+- Íon Mousse (Demaquilante)
 - Germânio Quelato + Chá verde
 - Enxofre Quelato + Bardana
 - Íon Face
 - Íon Nutre
 - Íon Masque
+- Filtro Solar
 
 ### **Passo a passo**
 
@@ -36,7 +37,7 @@ metadata:
 5. Aplicar Íon Face até total absorção
 6. Aplicar a Íon Masque e deixar por 15 minutos
 7. Aplicar o Íon Nutre massageando até absorver
-8. Finalizar com filtro solar
+8. Finalizar com Filtro Solar
 
 ### *Manutenção:*
 

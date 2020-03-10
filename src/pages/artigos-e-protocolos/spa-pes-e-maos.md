@@ -5,7 +5,7 @@ title: Procedimento Ortomolecular Spa Pés e Mãos
 description: Protocolo com produtos ortomoleculares para hidratação e nutrição dos pés e mãos.
 tags:
   - protocolo
-  - facial e corporal
+  - corporal
   - ortomolecular
   - spa pés e mãos
 metadata:
@@ -34,7 +34,8 @@ metadata:
 4. Aplicar Íon Masque por 10 minutos
 5. Retirar com Água Termal
 6. Promover massagem relaxante com Íon Alivi
-7. **OBSERVAÇÃO:**: Em caso de fissuras, utilizar Zinco Quelato e Silício Quelato + Romã + Coenzima Q10 antes do Íon Alivi
+
+**OBSERVAÇÃO:** Em caso de fissuras, utilizar Zinco Quelato e Silício Quelato + Romã + Coenzima Q10 antes do Íon Alivi
 
 ### *Manutenção:*
 
@@ -51,7 +52,7 @@ metadata:
 
 - Íon Nutre
 
-### **Passo a passo,em caso de Manchas Senis:**
+### **Passo a passo, em caso de Manchas Senis:**
 
 1. Retirar sujidades com Água Termal
 2. Esfoliar com sabonete Íon Clean

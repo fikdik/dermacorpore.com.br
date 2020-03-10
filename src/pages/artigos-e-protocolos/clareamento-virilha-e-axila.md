@@ -36,7 +36,7 @@ metadata:
 6. Massagear com Íon Face até absorção
 7. Aplicar Íon Masque por 10 minutos
 8. Retirar com Água Termal
-9. Passar filtro solar
+9. Passar Filtro Solar
 
 ### *Manutenção: Dia e Noite*
 

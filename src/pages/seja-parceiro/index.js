@@ -36,12 +36,12 @@ export default function Page() {
         <PageHeader>{title}</PageHeader>
         <div className="container bg-white">
           <div className="flex flex-col md:flex-row">
-            <div className="md:w-2/3 flex justify-between p-6">
-              <div className="p-4 w-full md:w-1/2">
+            <div className="md:w-2/3 flex flex-col lg:flex-row lg:justify-between p-6">
+              <div className="p-4 w-full lg:w-1/2">
                 <SmartLink className="block" to="/seja-parceiro/profissional">
-                  <div className="max-w-sm rounded overflow-hidden shadow-lg hover:bg-gray-100">
+                  <div className="rounded overflow-hidden shadow-lg hover:bg-gray-100">
                     <div className="px-6 py-4">
-                      <div className="font-bold text-xl mb-2">
+                      <div className="font-bold md:text-xl mb-2">
                         Solicitar cadastro como profissional de estética.
                       </div>
                     </div>
@@ -52,11 +52,11 @@ export default function Page() {
                   </div>
                 </SmartLink>
               </div>
-              <div className="p-4 w-full md:w-1/2">
+              <div className="p-4 w-full lg:w-1/2">
                 <SmartLink to="/seja-parceiro/consultor">
-                  <div className="max-w-sm rounded overflow-hidden shadow-lg hover:bg-gray-100">
+                  <div className="rounded overflow-hidden shadow-lg hover:bg-gray-100">
                     <div className="px-6 py-4">
-                      <div className="font-bold text-xl mb-2">
+                      <div className="font-bold md:text-xl mb-2">
                         Quero ser consultor(a) Dermacorpore.
                       </div>
                     </div>

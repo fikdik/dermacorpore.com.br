@@ -23,7 +23,7 @@ export default function BlogIndexPage({ data }) {
         <PageHeader>{title}</PageHeader>
         <div className="container bg-white">
           <div className="flex flex-col md:flex-row">
-            <div className="p-6 flex md:w-2/3">
+            <div className="p-6 flex flex-col md:flex-row md:w-2/3">
               {Object.keys(places).map(place => (
                 <div className="w-full md:w-1/2" key={place}>
                   <h2 className="text-3xl font-bold">{place}</h2>

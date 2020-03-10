@@ -18,7 +18,8 @@ export const onRenderBody = (_ref, pluginOptions) => {
       src: "https://embed.tawk.to/" + tawkId + "/default",
       charset: "UTF-8",
       crossOrigin: "*",
-      SameSite: "None",
+      sameSite: "None",
+      secure: true,
     }),
   ])
 }

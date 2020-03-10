@@ -1,6 +1,5 @@
 import manifest from "content/settings/manifest.json"
 import CMS from "netlify-cms-app"
-// import FileSystemBackend from "netlify-cms-backend-fs"
 import cloudinary from "netlify-cms-media-library-cloudinary"
 import uploadcare from "netlify-cms-media-library-uploadcare"
 import { repository } from "../../package.json"
@@ -13,14 +12,6 @@ const config = {
   collections,
 }
 
-// if (process.env.NODE_ENV === "development") {
-//   // config.load_config_file = false
-//   config.backend = {
-//     name: "file-system",
-//     api_root: "/api",
-//   }
-//   // CMS.registerBackend("file-system", FileSystemBackend)
-// } else {
 config.backend = {
   name: "github",
   branch: "master",
@@ -46,7 +37,6 @@ if (process.env.NODE_ENV === "development") {
 
 CMS.registerMediaLibrary(uploadcare)
 CMS.registerMediaLibrary(cloudinary)
-// }
 
 CMS.init({ config })
 

@@ -25,7 +25,6 @@ export default function HTML(props) {
           var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
         </script>
         <script
-          async
           src="https://embed.tawk.to/580e9643d0f23f0cd8dc646a/default"
           charSet="UTF-8"
           crossOrigin="*"

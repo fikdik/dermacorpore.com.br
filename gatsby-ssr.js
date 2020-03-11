@@ -8,16 +8,12 @@ const ReactI = _interopRequireDefault(React)
 export { wrapRootElement } from "~/gatsby/wrapRootElement"
 
 export const onRenderBody = (_ref, pluginOptions) => {
-  const setPostBodyComponents = _ref.setPostBodyComponents
-  const tawkId = "580e9643d0f23f0cd8dc646a"
+  const setHeadComponents = _ref.setHeadComponents
 
-  return setPostBodyComponents([
+  return setHeadComponents([
     ReactI.default.createElement("script", {
-      key: "gatsby-plugin-tawk",
       async: true,
-      src: "/tawkto.js",
-      charset: "UTF-8",
-      crossOrigin: "*",
+      src: "//code.jivosite.com/widget/WWn9QIB1H0",
     }),
   ])
 }

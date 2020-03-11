@@ -16,7 +16,7 @@ export const Template = ({ links }) => {
       <div className="p-4 mx-auto max-w-4xl flex flex-col items-center">
         {links.map(link => (
           <SmartLink
-            className={`${styles.link} font-bold`}
+            className={`${styles.link} font-bold bg-brand-1`}
             to={link.url.startsWith("https:") ? link.url : "/" + link.url}
             key={link.url}
           >

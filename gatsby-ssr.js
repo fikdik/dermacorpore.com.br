@@ -15,11 +15,9 @@ export const onRenderBody = (_ref, pluginOptions) => {
     ReactI.default.createElement("script", {
       key: "gatsby-plugin-tawk",
       async: true,
-      src: "https://embed.tawk.to/" + tawkId + "/default",
+      src: "/tawkto.js",
       charset: "UTF-8",
       crossOrigin: "*",
-      sameSite: "None",
-      secure: true,
     }),
   ])
 }

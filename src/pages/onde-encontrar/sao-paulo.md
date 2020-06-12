@@ -25,6 +25,5 @@ metadata:
 | Pedrinhas Paulista   | CWR Comércio de Cosmeticos | (43) 99998-5757                |
 | São Caetano do Sul   | Caroline                   | (11) 96614-3305                |
 | São Carlos           | Clínica Aiki               | (16) 3415-1544                 |
-| São Paulo (capital)  | Bruna Narusevicius         | (11) 99585-2452                |
 | São Paulo (capital)  | Hebllyn                    | (11) 98132-4330                |
 | Vargem Grande do Sul | Roseane                    | (19) 98410-9158                |

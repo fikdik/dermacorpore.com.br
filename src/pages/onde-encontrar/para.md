@@ -1,6 +1,6 @@
 ---
 templateKey: onde-encontrar
-title: Para
+title: Pará
 nacional: true
 metadata:
   cover: /img/ogimage.jpg

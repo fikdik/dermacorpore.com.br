@@ -14,7 +14,6 @@ metadata:
 | Angra dos Reis               | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Araruama                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Armação dos Búzios           | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Barra do Piraí               | Karla     | (21) 3185-0962                                       |
 | Barra Mansa                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Belford Roxo                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Bom Jardim                   | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
@@ -25,7 +24,6 @@ metadata:
 | Campos dos Goytacazes        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Cantagalo                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Duas Barras                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Duque de Caxias              | Karla     | (21) 3185-0962                                       |
 | Engenheiro Paulo de Frontin  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Guapimirim                   | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Iguaba Grande                | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
@@ -42,7 +40,6 @@ metadata:
 | Mesquita                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Miguel Pereira               | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Nilópolis                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Niterói                      | Karla     | (21) 3185-0962                                       |
 | Nova Friburgo                | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Nova Iguaçu                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Paraíba do Sul               | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
@@ -66,28 +63,20 @@ metadata:
 | Teresópolis                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Três Rios                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Valença                      | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Vassouras                    | Karla     | (21) 3185-0962                                       |
-| Volta Redonda                | Karla     | (21) 3185-0962                                       |
 | #**Rio de Janeiro (cidade)** |
 | Anil                         | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Bancários                    | Karla     | (21) 3185-0962                                       |
 | Bangu                        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Barra de Guaratiba           | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Barra da Tijuca              | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8703 |
-| Barra da Tijuca              | Karla     | (21) 3185-0962                                       |
 | Bonsucesso                   | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Botafogo                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Cachambi                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Cacuia                       | Karla     | (21) 3185-0962                                       |
 | Campo Grande                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Cascadura                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Catete                       | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Centro da Cidade             | Karla     | (21) 3185-0962                                       |
 | Cidade Nova                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Cidade Universitária         | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Cocotá                       | Karla     | (21) 3185-0962                                       |
 | Coelho Neto                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Copacabana                   | Karla     | (21) 3185-0962                                       |
 | Cosme Velho                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Curicica                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Del Castilho                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
@@ -95,54 +84,34 @@ metadata:
 | Engenho de Dentro            | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Engenho Novo                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Flamengo                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Ilha do Governador           | Karla     | (21) 3185-0962                                       |
 | Freguesia (Jacarepaguá)      | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Galeão                       | Karla     | (21) 3185-0962                                       |
 | Gávea                        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Glória                       | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Guaratiba                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Humaitá                      | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Ipanema                      | Karla     | (21) 3185-0962                                       |
 | Irajá                        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Itanhangá                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Jararepaguá                  | Karla     | (21) 3185-0962                                       |
 | Jardim Botânico              | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Jardim Carioca               | Karla     | (21) 3185-0962                                       |
-| Jardim Guanabara             | Karla     | (21) 3185-0962                                       |
 | Jardim Sulacap               | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Lagoa                        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Laranjeiras                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Largo do Machado             | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Leblon                       | Karla     | (21) 3185-0962                                       |
 | Leme                         | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Madureira                    | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Magalhães Bastos             | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Maracanã                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Meier                        | Karla     | (21) 3185-0962                                       |
-| Moneró                       | Karla     | (21) 3185-0962                                       |
 | Oswaldo Cruz                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Penha                        | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Pitangueiras                 | Karla     | (21) 3185-0962                                       |
-| Portuguesa                   | Karla     | (21) 3185-0962                                       |
-| Praça de Bandeira            | Karla     | (21) 3185-0962                                       |
 | Quintino Bocaiúva            | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Realengo                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Recreio dos Bandeirantes     | Karla     | (21) 3185-0962                                       |
-| Ribeira                      | Karla     | (21) 3185-0962                                       |
 | Santa Cruz                   | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Santa Teresa                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | São Cristóvão                | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | São Francisco Xavier         | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Taquara                      | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Tauá                         | Karla     | (21) 3185-0962                                       |
-| Tijuca                       | Karla     | (21) 3185-0962                                       |
 | Urca                         | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Vargem Grande                | Karla     | (21) 3185-0962                                       |
-| Vargem Pequena               | Karla     | (21) 3185-0962                                       |
 | Vaz Lobo                     | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Vila da Penha                | Karla     | (21) 3185-0962                                       |
 | Vila Isabel                  | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Vila Militar                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Vila Valqueire               | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
 | Vista Alegre                 | Ivonete   | (21 ) 2257-1053/ (21)  98031-3405  / (21) 98291-8702 |
-| Zumbi                        | Karla     | (21) 3185-0962                                       |

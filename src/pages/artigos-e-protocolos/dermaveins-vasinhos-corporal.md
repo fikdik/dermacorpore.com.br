@@ -43,8 +43,9 @@ metadata:
 3. Retirar com Água Termal
 4. Realizar manobras de zigue-zague nos vasos com os minerais quelatos até total absorção, um de cada vez, na seguinte ordem: Cálcio, Potássio, Cobalto, Magnésio, Ferro e Germânio (Dividir a região em quadrantes, pois facilita trabalhar em pequenas áreas por vez.)
 5. Aplicar o Íon Firme massageando a região
-6. Aplicar Íon Masque e deixar agir de 10 a 15 minutos (retirar com Água termal)
-7. Aplicar Íon Alivi e deixar absorver
+6. Aplicar uma quantidade espessa de Íon Alivi, aguardar  por 2 a 3 minutos e depois espalhar;
+7. Aplicar Íon Masque e espalhar até absorver.
+
 
 ### *Manutenção:*
 

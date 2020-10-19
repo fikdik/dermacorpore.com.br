@@ -10,67 +10,67 @@ metadata:
 
 | Local                    | Consultor     | Contato                         |
 | :----------------------- | :------------ | :------------------------------ |
-| Água Clara               | Larissa       | (67) 99652-4250                 |
+| Água Clara               | Luciana Gomes | (67) 99930-2711                 |
 | Amambai                  | Nalú Estética | (67) 3032-4017/ (67)99631-7051  |
-| Anastácio                | Larissa       | (67) 99652-4250                 |
+| Anastácio                | Luciana Gomes | (67) 99930-2711                 |
 | Anastácio                | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
 | Antônio João             | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Aquidauana               | Larissa       | (67) 99652-4250                 |
-| Bandeirantes             | Larissa       | (67) 99652-4250                 |
-| Bodoquena                | Larissa       | (67) 99652-4250                 |
-| Bonito                   | Larissa       | (67) 99652-4250                 |
+| Aquidauana               | Luciana Gomes | (67) 99930-2711                 |
+| Bandeirantes             | Luciana Gomes | (67) 99930-2711                 |
+| Bodoquena                | Luciana Gomes | (67) 99930-2711                 |
+| Bonito                   | Luciana Gomes | (67) 99930-2711                 |
 | Bonito                   | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Caarapó                  | Larissa       | (67) 99652-4250                 |
+| Caarapó                  | Luciana Gomes | (67) 99930-2711                 |
 | Caarapó                  | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Camapuã                  | Larissa       | (67) 99652-4250                 |
-| Campo Grande             | Larissa       | (67) 99652-4250                 |
-| Corguinho                | Larissa       | (67) 99652-4250                 |
+| Camapuã                  | Luciana Gomes | (67) 99930-2711                 |
+| Campo Grande             | Luciana Gomes | (67) 99930-2711                 |
+| Corguinho                | Luciana Gomes | (67) 99930-2711                 |
 | Coronel Sapucaia         | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Deodápolis               | Larissa       | (67) 99652-4250                 |
+| Deodápolis               | Luciana Gomes | (67) 99930-2711                 |
 | Deodápolis               | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Dois Irmãos do Buriti    | Larissa       | (67) 99652-4250                 |
-| Douradina                | Larissa       | (67) 99652-4250                 |
+| Dois Irmãos do Buriti    | Luciana Gomes | (67) 99930-2711                 |
+| Douradina                | Luciana Gomes | (67) 99930-2711                 |
 | Douradina                | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Dourados                 | Larissa       | (67) 99652-4250                 |
+| Dourados                 | Luciana Gomes | (67) 99930-2711                 |
 | Dourados                 | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Eldorado                 | Larissa       | (67) 99652-4250                 |
-| Fátima do Sul            | Larissa       | (67) 99652-4250                 |
+| Eldorado                 | Luciana Gomes | (67) 99930-2711                 |
+| Fátima do Sul            | Luciana Gomes | (67) 99930-2711                 |
 | Fátima do Sul            | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Figueirão                | Larissa       | (67) 99652-4250                 |
-| Glória de Dourados       | Larissa       | (67) 99652-4250                 |
+| Figueirão                | Luciana Gomes | (67) 99930-2711                 |
+| Glória de Dourados       | Luciana Gomes | (67) 99930-2711                 |
 | Glória de Dourados       | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Guia Lopes da Laguna     | Larissa       | (67) 99652-4250                 |
+| Guia Lopes da Laguna     | Luciana Gomes | (67) 99930-2711                 |
 | Iguatemi                 | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Itaporã                  | Larissa       | (67) 99652-4250                 |
+| Itaporã                  | Luciana Gomes | (67) 99930-2711                 |
 | Itaporã                  | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
 | Itaquiraí                | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Ivinhema                 | Larissa       | (67) 99652-4250                 |
-| Jardim                   | Larissa       | (67) 99652-4250                 |
+| Ivinhema                 | Luciana Gomes | (67) 99930-2711                 |
+| Jardim                   | Luciana Gomes | (67) 99930-2711                 |
 | Jardim                   | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Jateí                    | Larissa       | (67) 99652-4250                 |
+| Jateí                    | Luciana Gomes | (67) 99930-2711                 |
 | Juti                     | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Laguna Carapã            | Larissa       | (67) 99652-4250                 |
-| Maracaju                 | Larissa       | (67) 99652-4250                 |
+| Laguna Carapã            | Luciana Gomes | (67) 99930-2711                 |
+| Maracaju                 | Luciana Gomes | (67) 99930-2711                 |
 | Maracaju                 | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Miranda                  | Larissa       | (67) 99652-4250                 |
+| Miranda                  | Luciana Gomes | (67) 99930-2711                 |
 | Mundo Novo               | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Naviraí                  | Larissa       | (67) 99652-4250                 |
-| Nioaque                  | Larissa       | (67) 99652-4250                 |
-| Nova Alvorada do Sul     | Larissa       | (67) 99652-4250                 |
-| Nova Andradina           | Larissa       | (67) 99652-4250                 |
-| Paraíso das Águas        | Larissa       | (67) 99652-4250                 |
+| Naviraí                  | Luciana Gomes | (67) 99930-2711                 |
+| Nioaque                  | Luciana Gomes | (67) 99930-2711                 |
+| Nova Alvorada do Sul     | Luciana Gomes | (67) 99930-2711                 |
+| Nova Andradina           | Luciana Gomes | (67) 99930-2711                 |
+| Paraíso das Águas        | Luciana Gomes | (67) 99930-2711                 |
 | Paranhos                 | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Pedro Gomes              | Larissa       | (67) 99652-4250                 |
+| Pedro Gomes              | Luciana Gomes | (67) 99930-2711                 |
 | Ponta Porã               | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Ribas do Rio Pardo       | Larissa       | (67) 99652-4250                 |
-| Rio Brilhante            | Larissa       | (67) 99652-4250                 |
+| Ribas do Rio Pardo       | Luciana Gomes | (67) 99930-2711                 |
+| Rio Brilhante            | Luciana Gomes | (67) 99930-2711                 |
 | Rio Brilhante            | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Rio Negro                | Larissa       | (67) 99652-4250                 |
-| Rio Verde de Mato Grosso | Larissa       | (67) 99652-4250                 |
-| Rochedo                  | Larissa       | (67) 99652-4250                 |
-| Santa Rita do Pardo      | Larissa       | (67) 99652-4250                 |
+| Rio Negro                | Luciana Gomes | (67) 99930-2711                 |
+| Rio Verde de Mato Grosso | Luciana Gomes | (67) 99930-2711                 |
+| Rochedo                  | Luciana Gomes | (67) 99930-2711                 |
+| Santa Rita do Pardo      | Luciana Gomes | (67) 99930-2711                 |
 | Sete Quedas              | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |
-| Sidrolândia              | Larissa       | (67) 99652-4250                 |
-| Terenos                  | Larissa       | (67) 99652-4250                 |
-| Vicentina                | Larissa       | (67) 99652-4250                 |
+| Sidrolândia              | Luciana Gomes | (67) 99930-2711                 |
+| Terenos                  | Luciana Gomes | (67) 99930-2711                 |
+| Vicentina                | Luciana Gomes | (67) 99930-2711                 |
 | Vicentina                | Nalú Estética | (67) 3032-4017/ (67) 99631-7051 |

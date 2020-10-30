@@ -10,4 +10,4 @@ metadata:
 
 | Local              | Consultor | Contato                        |
 | :----------------- | :-------- | :----------------------------- |
-| Aparecida de Goiás | Patricia  | (62) 99280-8878 (62) 3519-4082 |
+| Aparecida de Goiás | Patrícia  | (62) 99280-8878 (62) 3519-4082 |

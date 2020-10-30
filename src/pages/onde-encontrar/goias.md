@@ -8,6 +8,6 @@ metadata:
 ---
 # Goiás
 
-| Local              | Consultor    | Contato         |
-| :------------      | :--------    | :-------------- |
-| Aparecida de Goiás | Patrícia     | (61) 99948-1975 |
+| Local              | Consultor | Contato                        |
+| :----------------- | :-------- | :----------------------------- |
+| Aparecida de Goiás | Patricia  | (62) 99280-8878 (62) 3519-4082 |

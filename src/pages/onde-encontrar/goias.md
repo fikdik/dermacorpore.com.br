@@ -8,6 +8,6 @@ metadata:
 ---
 # Goiás
 
-| Local         | Consultor | Contato         |
-| :------------ | :-------- | :-------------- |
-| Todo o Estado | Diana     | (61) 99948-1975 |
+| Local              | Consultor    | Contato         |
+| :------------      | :--------    | :-------------- |
+| Aparecida de Goiás | Patrícia     | (61) 99948-1975 |

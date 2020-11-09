@@ -1,8 +1,12 @@
 ---
 templateKey: posts/post
 author: Dermacorpore
-title: Procedimento Ortomolecular para Recuperação de tecido em casos de manchas de criolipólise
-description: Protocolo com produtos ortomoleculares para amenizar manchas causada pela criolipólise.
+title: >-
+  Procedimento Ortomolecular para Recuperação de tecido em casos de manchas de
+  criolipólise
+description: >-
+  Protocolo com produtos ortomoleculares para amenizar manchas causada pela
+  criolipólise.
 tags:
   - protocolo
   - corporal
@@ -26,8 +30,7 @@ metadata:
 - Germânio Quelato + Chá verde
 - Magnésio Quelato + Ginseng
 - Manganês Quelato
-- Íon Face
-- Íon Nutre
+- Íon Firme
 - Íon Masque
 
 ### **Passo a passo**
@@ -36,12 +39,12 @@ metadata:
 2. Esfoliar com sabonete Íon Clean
 3. Retirar com Água Termal
 4. Aplicar os minerais até total absorção, um de cada vez, na seguinte ordem: Ferro, Silício, Magnésio, Germânio e Manganês
-5. Aplicar Íon Nutre até absorção
+5. Aplicar Íon Firme até absorção
 6. Aplicar Íon Masque e deixar por 10 minutos
 7. Retirar com Água Termal
 
 ### *Manutenção: Dia e Noite*
 
-- Íon Face
+- Íon Firme Plus
 
 **Frequência do procedimento:** 2 vezes na semana por no mínimo 10 sessões

@@ -25,7 +25,9 @@ metadata:
 - Zinco Quelato
 - Ferro Quelato
 - Silício Quelato + Romã + Coenzima Q10
+- Selênio Quelato + Romã + Coenzima Q10
 - Cobre Quelato + Ginseng
+- Magnésio Quelato + Ginseng
 - Germânio Quelato + Chá verde
 - Íon Firme
 - Íon Masque
@@ -36,7 +38,7 @@ metadata:
 2. Esfoliar com sabonete Íon Clean
 3. Tonificar a pele com Água Termal
 4. Aplicar de 2 a 3 gotas do mineral Zinco até absorção
-5. Aplicar os minerais nas estrias, até total absorção, um de cada vez, na seguinte ordem: Ferro, Silício, Germânio e Cobre até absorção (Repetir esse passo três vezes)
+5. Aplicar os minerais nas estrias, até total absorção, um de cada vez, na seguinte ordem: Ferro, Silício, Selênio, Magnésio, Germânio e Cobre até absorção (Repetir esse passo três vezes)
 6. Passar Íon Firme promovendo uma hiperemia local com massagem tonificante
 7. Após o Íon Firme pode ser realizado procedimentos usando Eletroterapia (microagulhamento ou vacuoterapia)
 8. Finalizar aplicando a Íon Masque 

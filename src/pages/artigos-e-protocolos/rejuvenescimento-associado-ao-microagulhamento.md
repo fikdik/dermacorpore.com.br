@@ -1,8 +1,12 @@
 ---
 templateKey: posts/post
 author: Dermacorpore
-title: Procedimento Ortomolecular de Microagulhamento associado a minerais quelatados para rejuvenescimento
-description: Protocolo com produtos ortomoleculares para rejuvenescimento associado ao microagulhamento. Atenua os sinais do envelhecimento.
+title: >-
+  Procedimento Ortomolecular de Microagulhamento associado a minerais quelatados
+  para rejuvenescimento
+description: >-
+  Protocolo com produtos ortomoleculares para rejuvenescimento associado ao
+  microagulhamento. Atenua os sinais do envelhecimento.
 tags:
   - protocolo
   - facial
@@ -42,6 +46,6 @@ metadata:
 ### *Manutenção:*
 
 - Água Termal
-- Íon Face + Vit C
+- Íon Face + C
 
 **Frequencia do procedimento**: De 3 a 4 sessões de microagulhamento, com intervalo de um mês entre elas.

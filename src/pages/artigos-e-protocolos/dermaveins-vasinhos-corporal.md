@@ -27,6 +27,7 @@ metadata:
 - Água Termal
 - Íon Clean
 - Cálcio Quelato + Centella Asiática
+- Enxofre Quelato + Bardana
 - Potássio Quelato + Ginseng
 - Cobalto Quelato
 - Magnésio Quelato + Ginseng
@@ -41,7 +42,7 @@ metadata:
 1. Retirar sujidades com Água Termal
 2. Esfoliar com sabonete Íon Clean
 3. Retirar com Água Termal
-4. Realizar manobras de zigue-zague nos vasos com os minerais quelatos até total absorção, um de cada vez, na seguinte ordem: Cálcio, Potássio, Cobalto, Magnésio, Ferro e Germânio (Dividir a região em quadrantes, pois facilita trabalhar em pequenas áreas por vez.)
+4. Realizar manobras de zigue-zague nos vasos com os minerais quelatos até total absorção, um de cada vez, na seguinte ordem: Cálcio, Potássio, Cobalto, Magnésio, Enxofre, Ferro e Germânio (Dividir a região em quadrantes, pois facilita trabalhar em pequenas áreas por vez.)
 5. Aplicar o Íon Firme massageando a região
 6. Aplicar uma quantidade espessa de Íon Alivi, aguardar  por 2 a 3 minutos e depois espalhar;
 7. Aplicar Íon Masque e espalhar até absorver.

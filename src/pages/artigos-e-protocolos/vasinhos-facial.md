@@ -1,8 +1,12 @@
 ---
 templateKey: posts/post
 author: Dermacorpore
-title: Procedimento Ortomolecular para recuperação de Vasinhos ou Telangiectasia Facial
-description: Protocolo com produtos ortomoleculares para amenizar o aspecto dos vasinhos e melhorar a circulação. Método não invasivo.
+title: >-
+  Procedimento Ortomolecular para recuperação de Vasinhos ou Telangiectasia
+  Facial
+description: >-
+  Protocolo com produtos ortomoleculares para amenizar o aspecto dos vasinhos e
+  melhorar a circulação. Método não invasivo.
 tags:
   - protocolo
   - facial
@@ -26,10 +30,10 @@ metadata:
 - Cobalto Quelato
 - Magnésio Quelato + Ginseng
 - Ferro Quelato
-- Zinco Quelato
+- Enxofre Quelatp + Bardana
+- Germânio Quelato + Chá Verde
 - Íon Face
 - Íon Masque
-- Íon Nutre
 - Filtro Solar
 
 ### **Passo a passo**
@@ -37,7 +41,7 @@ metadata:
 1. Retirar sujidades com Água Termal
 2. Esfoliar com sabonete Íon Clean
 3. Retirar com Água Termal
-4. Realizar manobras de zigue-zague nos vasos com os minerais quelatos até total absorção, um de cada vez, na seguinte ordem: Cálcio, Potássio, Cobalto, Ferro, Magnésio e Zinco (Dividir a região em quadrantes, pois facilita trabalhar em pequenas áreas por vez.)
+4. Realizar manobras de zigue-zague nos vasos com os minerais quelatos até total absorção, um de cada vez, na seguinte ordem: Cálcio, Potássio, Cobalto, Magnésio, Enxofre, Ferro e Germânio (Dividir a região em quadrantes, pois facilita trabalhar em pequenas áreas por vez.)
 5. Aplicar o Íon Face e deixar absorver
 6. Massagear o Íon Nutre na região
 7. Aplicar Íon Masque e deixar agir de 10 a 15 minutos (retirar com Água termal)

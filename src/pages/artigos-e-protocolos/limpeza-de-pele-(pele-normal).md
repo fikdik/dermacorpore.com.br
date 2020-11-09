@@ -2,7 +2,9 @@
 templateKey: posts/post
 author: Dermacorpore
 title: Procedimento Ortomolecular para Limpeza de pele (Pele normal)
-description: Protocolo com produtos ortomoleculares para fazer limpeza de pele. Indicado para peles normais.
+description: >-
+  Protocolo com produtos ortomoleculares para fazer limpeza de pele. Indicado
+  para peles normais.
 tags:
   - protocolo
   - facial
@@ -22,6 +24,7 @@ metadata:
 - Íon Mousse (Demaquilante)
 - Íon Clean
 - Íon Nutre
+- Íon Face
 - Íon Masque
 - Filtro Solar
 

@@ -2,7 +2,9 @@
 templateKey: posts/post
 author: Dermacorpore
 title: DermaSkin - Procedimento Ortomolecular para Limpeza de pele (Pele com Acne)
-description: Protocolo com produtos ortomoleculares para fazer limpeza de pele. Indicado para peles acneicas.
+description: >-
+  Protocolo com produtos ortomoleculares para fazer limpeza de pele. Indicado
+  para peles acneicas.
 tags:
   - protocolo
   - facial

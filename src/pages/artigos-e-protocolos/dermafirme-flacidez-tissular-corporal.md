@@ -2,7 +2,9 @@
 templateKey: posts/post
 author: Dermacorpore
 title: DermaFirme - Procedimento Ortomolecular de Flacidez Tissular Corporal
-description: Protocolo com produtos ortomoleculares para combater e amenizar a flacidez tissular corporal.
+description: >-
+  Protocolo com produtos ortomoleculares para combater e amenizar a flacidez
+  tissular corporal.
 tags:
   - protocolo
   - corporal
@@ -41,7 +43,7 @@ metadata:
 
 ### *Manutenção:*
 
-- Íon Firme
+- Íon Firme Plus
 
 ### Uso de eletroterapia
 

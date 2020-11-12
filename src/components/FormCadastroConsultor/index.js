@@ -85,12 +85,12 @@ export default function FormCadastroProfissional() {
           label: "Contato pelo email",
           value: 1,
         })
-        toast.success("Campos validos, complete o envio pelo seu app de email")
+        toast.success("Campos válidos, complete o envio pelo seu app de email")
         resetForm()
         break
       }
       default: {
-        toast.error("Use um dos botoes para enviar")
+        toast.error("Use um dos botões para enviar")
       }
     }
   }

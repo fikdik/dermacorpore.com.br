@@ -13,12 +13,6 @@
     },
     { "label": "Theme Color", "name": "theme_color", "widget": "string" },
     {
-      "label": "Orientation",
-      "name": "orientation",
-      "widget": "hidden",
-      "default": "portrait"
-    },
-    {
       "label": "Display",
       "name": "display",
       "widget": "hidden",

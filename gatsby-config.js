@@ -107,13 +107,12 @@ module.exports = {
         stripQueryString: true,
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-tawk`,
-    //   options: {
-    //     tawkId: "580e9643d0f23f0cd8dc646a",
-    //     // get this from the tawk script widget
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-tawk.to`,
+      options: {
+        tawkId: "580e9643d0f23f0cd8dc646a",
+      },
+    },
 
     "gatsby-plugin-sitemap",
 

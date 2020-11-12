@@ -33,6 +33,7 @@
     "gatsby-plugin-sitemap": "^2.2.27",
     "gatsby-plugin-svg-sprite": "^2.0.1",
     "gatsby-plugin-tawk": "^1.0.0",
+    "gatsby-plugin-tawk.to": "^1.0.5",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^2.1.37",
     "gatsby-remark-images": "^3.1.44",
